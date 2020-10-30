@@ -1,6 +1,6 @@
 # Spring MVC, Mybatis and MySQL
 
-This web application demonstrates the Integration of Spring MVC and Mybatis connecting to a MySQL database and demonstrates the database operations such as Create, Read, Update and Delete.
+This web application demonstrates the Integration of Spring MVC and Mybatis connecting to a MySQL database and demonstrates the database operations such as Create, Read, Update and Delete. It uses apache Tomcat as server.
 
 ## Requirements
 
